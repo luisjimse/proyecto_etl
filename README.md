@@ -68,9 +68,6 @@ El objetivo de este proyecto es implementar y ejecutar un proceso de ETL (Extrac
 - **Análisis de Resultados:**  
   - Explorar y analizar los datos transformados para responder a las preguntas clave sobre patrones de reserva y ocupación.
   
-- **Desarrollo de Modelos Predictivos:**  
-  - Una vez realizado el análisis, se podrá desarrollar un modelo predictivo que permita anticipar la demanda hotelera en función de variables como la ubicación, temporada y tipo de hotel.
-  
 - **Implementación de Scripts en `src/`**  
   - Migrar los procesos actuales de los notebooks en `jupyters/` a scripts Python en `src/` para mayor modularidad y automatización.
 
